@@ -6,4 +6,5 @@ node ips
 
 52.59.205.223 35.158.121.52
 
-Wallet: http://livefuturecoin.com/ Explorer: http://explorer.livefuturecoin.com/
+Wallet: http://livefuturecoin.com/ 
+Explorer: http://explorer.livefuturecoin.com/
