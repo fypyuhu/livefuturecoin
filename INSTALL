@@ -1,0 +1,9 @@
+Building Lifefuturecoin
+
+See doc/readme-qt.rst for instructions on building Lifefuturecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lifefuturecoin.
+
+See doc/build-*.txt for instructions on building lifefuturecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lifefuturecoin.
